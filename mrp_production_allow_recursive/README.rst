@@ -60,6 +60,7 @@ Authors
 -------
 
 * Quartile
+* ToniSistemas
 
 Contributors
 ------------
@@ -67,6 +68,8 @@ Contributors
 - `Quartile <https://www.quartile.co>`__:
 
   - Aung Ko Ko Lin
+
+- Toni - ToniSistemas: Updated to Odoo 17.0
 
 Maintainers
 -----------
